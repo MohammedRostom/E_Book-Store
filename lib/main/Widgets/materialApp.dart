@@ -42,9 +42,7 @@ class materialApp extends StatelessWidget {
                 ? Themes.LighTheme
                 : Themes.DarkTheme,
             routes: Routeing.MapOfAppRoutes,
-            initialRoute: PreferencesService.getUserName(UsernameKey) == null
-                ? Routeing.Login
-                : Routeing.Start);
+            initialRoute: Routeing.Start);
       },
     );
   }
