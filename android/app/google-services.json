@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846488422219",
+    "project_id": "augmented-city-391000",
+    "storage_bucket": "augmented-city-391000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846488422219:android:f7d033431022ece1eccace",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_dn8CPXwQgGG4HlSfOCS3MS4uAXxYss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846488422219:android:bc75ac5ea5b17b93eccace",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_dn8CPXwQgGG4HlSfOCS3MS4uAXxYss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
