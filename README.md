@@ -41,12 +41,6 @@ Integrating external APIs to fetch and display dynamic data, enhancing the app's
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/33.jpg" alt="logoApp" width="250" height="550"/>
 </div>
 <br><br>
-<b>Onboarding for New Users:</b><br>
-Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
-<div>
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/onbord.png" alt="logoApp" width="300" height="630"/>
-</div>
-
 <b>Caching with Shared Preferences Store Profile Data ANd Store ThemeMode status Functionality:</b><br>
 Utilizing Shared Preferences for local caching and Apply Localization , improving app performance by reducing the need for frequent network requests.
 Persistent User Login State and Implementing mechanisms to keep users logged in between app sessions, enhancing user convenience and reducing the need for repeated logins
@@ -67,7 +61,6 @@ Designing and utilizing custom widgets throughout the app to maintain a consiste
 <b>SQLite CRUD Operations for Local Data:</b><br>
 Employing SQLite for CRUD operations, enabling local storage and retrieval of data, providing offline capabilities and a smoother user experience.
 <div style="display: flex; justify-content: space-evenly;">
-
      &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/7.jpg" alt="logoApp" width="250" height="550"/>
      &nbsp;&nbsp;&nbsp;
@@ -76,23 +69,10 @@ Employing SQLite for CRUD operations, enabling local storage and retrieval of da
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/44.jpg" alt="logoApp" width="250" height="550"/>
      &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/55.jpg" alt="logoApp" width="250" height="550"/>
-
-</div>
-<br><br><br>
-
-
-<b>Integration with Payment Services (PayMob):</b><br>
-Integrating PayMob for handling payment services, enabling users to securely make payments for services or products through a reliable payment gateway<br>
-<div style="display: flex; justify-content: space-evenly;">
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/payscreen.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/paument.png" alt="logoApp" width="250" height="550"/>
 </div>
 <h5>Started design this by me With UI/UX Designing</h5>
 <ul>
-<li><h2>  ui/ux Design App link 😉👇👌</h2></li>
-    <li> https://www.behance.net/gallery/188657973/Casestudy-SOUQLY-e-commerce-Platform-(App-Website)</li>
-  <ul><br><br><br>
-For help getting started with Flutter development, view the
+<li><h2> Enjoy With Smart Ui  😉👌</h2></li>
+For help getting started with Flutter development,
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
