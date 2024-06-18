@@ -16,7 +16,14 @@ Implementing secure user authentication using Firebase Authentication services, 
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/3.jpg" alt="logoApp" width="250" height="550"/>
 </div>
-
+<h1>Dark Theme</h1>
+<div style="display: flex; justify-content: space-evenly;">
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/11.jpg" alt="logoApp" width="250" height="550"/>
+    &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/22.jpg" alt="logoApp" width="250" height="550"/>
+    &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/33.jpg" alt="logoApp" width="250" height="550"/>
+</div>
 <br><br><br>
 <b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
