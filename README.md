@@ -13,14 +13,7 @@ Implementing secure user authentication using Firebase Authentication services, 
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/1.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/2.jpg" alt="logoApp" width="250" height="550"/>
-    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/3.jpg" alt="logoApp" width="250" height="550"/>
-        &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/4.jpg" alt="logoApp" width="250" height="550"/>
-        &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/5.jpg" alt="logoApp" width="250" height="550"/>
-</div>
-<br><br><br>
+<br><br>
 <b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 <b>Shimmer Effect for Improved UX:</b><br>
@@ -29,7 +22,7 @@ Incorporating a shimmer effect during data loading to enhance the user experienc
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
 <b>API Integration for External Data:</b><br>
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
-<h1>Light Theme</h1>
+<h3>Light Theme</h3>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/4.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
@@ -37,7 +30,7 @@ Integrating external APIs to fetch and display dynamic data, enhancing the app's
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/6.jpg" alt="logoApp" width="250" height="550"/>
 </div>
-<h1>Dark Theme</h1>
+<h3>Dark Theme</h3>
 <div style="display: flex; justify-content: space-evenly;">
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/11.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
