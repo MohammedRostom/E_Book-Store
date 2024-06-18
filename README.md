@@ -15,6 +15,10 @@ Implementing secure user authentication using Firebase Authentication services, 
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/2.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/3.jpg" alt="logoApp" width="250" height="550"/>
+        &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/4.jpg" alt="logoApp" width="250" height="550"/>
+        &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/5.jpg" alt="logoApp" width="250" height="550"/>
 </div>
 <br><br><br>
 <b>State Management with BLoC/Cubit:</b><br>
