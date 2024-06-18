@@ -61,14 +61,22 @@ Enabling users to customize their profiles by providing functionality to edit pe
 </div>
 <br><br>
 
+
 <b>Custom Widgets for Consistent UI:</b><br>
 Designing and utilizing custom widgets throughout the app to maintain a consistent and visually appealing user interface, promoting code reusability<br>
 <b>SQLite CRUD Operations for Local Data:</b><br>
 Employing SQLite for CRUD operations, enabling local storage and retrieval of data, providing offline capabilities and a smoother user experience.
 <div style="display: flex; justify-content: space-evenly;">
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/cart.png" alt="logoApp" width="250" height="550"/>
-    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/productSingle.png" alt="logoApp" width="250" height="550"/>
+
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/7.jpg" alt="logoApp" width="250" height="550"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/8.jpg" alt="logoApp" width="250" height="550"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/44.jpg" alt="logoApp" width="250" height="550"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/55.jpg" alt="logoApp" width="250" height="550"/>
+
 </div>
 <br><br><br>
 
