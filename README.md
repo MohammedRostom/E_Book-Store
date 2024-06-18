@@ -3,7 +3,7 @@
 <br>
 "<b>Overview</b>" What Are used in this App? 
 <h2>Getting Started</h2>
-<h1>Light Theme</h1>
+
 <b>Backend-as-a-Service (BaaS) with Firebase:</b><br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.<br>
 <b>Authentication with Firebase:</b>b><br>
@@ -16,14 +16,6 @@ Implementing secure user authentication using Firebase Authentication services, 
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/3.jpg" alt="logoApp" width="250" height="550"/>
 </div>
-<h1>Dark Theme</h1>
-<div style="display: flex; justify-content: space-evenly;">
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/11.jpg" alt="logoApp" width="250" height="550"/>
-    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/22.jpg" alt="logoApp" width="250" height="550"/>
-    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/33.jpg" alt="logoApp" width="250" height="550"/>
-</div>
 <br><br><br>
 <b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
@@ -33,14 +25,22 @@ Incorporating a shimmer effect during data loading to enhance the user experienc
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
 <b>API Integration for External Data:</b><br>
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
+<h1>Light Theme</h1>
 <div style="display: flex; justify-content: space-evenly;">
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/splashing.png" alt="logoApp" width="250" height="550"/>
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/4.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/home.png" alt="logoApp" width="250" height="550"/>
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/5.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/shimmerEffect.png" alt="logoApp" width="250" height="550"/>
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/6.jpg" alt="logoApp" width="250" height="550"/>
 </div>
-
+<h1>Dark Theme</h1>
+<div style="display: flex; justify-content: space-evenly;">
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/11.jpg" alt="logoApp" width="250" height="550"/>
+    &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/22.jpg" alt="logoApp" width="250" height="550"/>
+    &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/33.jpg" alt="logoApp" width="250" height="550"/>
+</div>
 <br><br><br>
 <b>Onboarding for New Users:</b><br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
