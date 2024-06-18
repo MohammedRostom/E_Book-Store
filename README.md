@@ -47,10 +47,10 @@ Implementing an onboarding experience to guide new users through key features an
 <img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/onbord.png" alt="logoApp" width="300" height="630"/>
 </div>
 
-<b>Caching with Shared Preferences && Edit Profile Functionality:</b><br>
-Utilizing Shared Preferences for local caching, improving app performance by reducing the need for frequent network requests.
+<b>Caching with Shared Preferences Store Profile Data ANd Store ThemeMode status Functionality:</b><br>
+Utilizing Shared Preferences for local caching and Apply Localization , improving app performance by reducing the need for frequent network requests.
 Persistent User Login State and Implementing mechanisms to keep users logged in between app sessions, enhancing user convenience and reducing the need for repeated logins
-Enabling users to customize their profiles by providing functionality to edit personal information, change profile pictures, and update other profile details<br>
+Enabling users to customize their profiles by providing functionality to edit personal information, change profile pictures, Change languge (en,ar,fr)<br>
 <div>
      &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/9.jpg" alt="logoApp" width="250" height="550"/>
