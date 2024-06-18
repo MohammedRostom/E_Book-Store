@@ -3,6 +3,7 @@
 <br>
 "<b>Overview</b>" What Are used in this App? 
 <h2>Getting Started</h2>
+<h1>Light Theme</h1>
 <b>Backend-as-a-Service (BaaS) with Firebase:</b><br>
 Leveraging Firebase as a Backend-as-a-Service solution to seamlessly integrate services such as Authentication, Realtime Database, Firestore, and Cloud Functions.<br>
 <b>Authentication with Firebase:</b>b><br>
