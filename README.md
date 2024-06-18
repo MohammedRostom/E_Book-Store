@@ -13,13 +13,15 @@ Implementing secure user authentication using Firebase Authentication services, 
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/1.jpg" alt="logoApp" width="250" height="550"/>
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/2.jpg" alt="logoApp" width="250" height="550"/>
+        &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/3.jpg" alt="logoApp" width="250" height="550"/>
 <br><br>
 <b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
-<b>Shimmer Effect for Improved UX:</b><br>
+<b>Pdf Viewr For demo books </b><br>
 Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
 <b>Clean Architecture Design And SOLD principals:</b><br>
-Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Domain, Data), fostering modularity and scalability.:<br>
+Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Data), fostering modularity and scalability.:<br>
 <b>API Integration for External Data:</b><br>
 Integrating external APIs to fetch and display dynamic data, enhancing the app's capabilities and providing real-time information.:<br>
 <h3>Light Theme</h3>
@@ -38,7 +40,7 @@ Integrating external APIs to fetch and display dynamic data, enhancing the app's
     &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/33.jpg" alt="logoApp" width="250" height="550"/>
 </div>
-<br><br><br>
+<br><br>
 <b>Onboarding for New Users:</b><br>
 Implementing an onboarding experience to guide new users through key features and functionalities of the app.:<br>
 <div>
@@ -50,7 +52,12 @@ Utilizing Shared Preferences for local caching, improving app performance by red
 Persistent User Login State and Implementing mechanisms to keep users logged in between app sessions, enhancing user convenience and reducing the need for repeated logins
 Enabling users to customize their profiles by providing functionality to edit personal information, change profile pictures, and update other profile details<br>
 <div>
-<img src="https://github.com/MohammedRostom/E_commerceApp-SOUQLY-/blob/main/ScreenShots/profilacahing.png" alt="logoApp" width="300" height="630"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/9.jpg" alt="logoApp" width="250" height="550"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/10.jpg" alt="logoApp" width="250" height="550"/>
+     &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MohammedRostom/E_Book-Store/blob/main/lib/ScreenShots/66.jpg" alt="logoApp" width="250" height="550"/>
 </div>
 <br><br>
 
