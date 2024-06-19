@@ -28,11 +28,7 @@ class Themes {
       floatingActionButtonTheme: const FloatingActionButtonThemeData(),
       iconTheme:
           IconThemeData(color: AppColor.BlackColor, size: WsvgIconAppBar));
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
   static final ThemeData DarkTheme = ThemeData(
       colorScheme: ThemeData().colorScheme.copyWith(
           primaryContainer: AppColor.primaryColor,
