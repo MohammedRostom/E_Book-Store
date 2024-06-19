@@ -18,7 +18,6 @@ Implementing secure user authentication using Firebase Authentication services, 
 <b>State Management with BLoC/Cubit:</b><br>
 Utilizing BLoC (Business Logic Component) and Cubit for efficient state management, ensuring separation of concerns and maintainability.:<br>
 <b>Pdf Viewr For demo books </b><br>
-Incorporating a shimmer effect during data loading to enhance the user experience, providing a visually appealing loading animation.:<br>
 <b>Clean Architecture Design And SOLD principals:</b><br>
 Adhering to Clean Architecture principles to organize the codebase into layers (Presentation, Data), fostering modularity and scalability.:<br>
 <b>API Integration for External Data:</b><br>
